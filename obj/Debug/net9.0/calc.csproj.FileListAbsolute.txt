@@ -1,0 +1,14 @@
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\calc.AssemblyInfoInputs.cache
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\calc.AssemblyInfo.cs
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\calc.csproj.CoreCompileInputs.cache
+d:\mydocs\mywork\code\csharp\projects\calc\bin\Debug\net9.0\calc.exe
+d:\mydocs\mywork\code\csharp\projects\calc\bin\Debug\net9.0\calc.deps.json
+d:\mydocs\mywork\code\csharp\projects\calc\bin\Debug\net9.0\calc.runtimeconfig.json
+d:\mydocs\mywork\code\csharp\projects\calc\bin\Debug\net9.0\calc.dll
+d:\mydocs\mywork\code\csharp\projects\calc\bin\Debug\net9.0\calc.pdb
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\calc.dll
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\refint\calc.dll
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\calc.pdb
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\calc.genruntimeconfig.cache
+d:\mydocs\mywork\code\csharp\projects\calc\obj\Debug\net9.0\ref\calc.dll
